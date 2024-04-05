@@ -1,4 +1,4 @@
-Congratulations on completing the task! Here's a template you can use for your README:
+README:
 
 ---
 
